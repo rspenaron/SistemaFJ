@@ -1,5 +1,12 @@
 # Sistema Integral de Gestion - Software FJ
 
+## Como Ejecutar el Programa
+
+Paso 1: Descargar o copiar el proyecto
+
+Paso 2: Ejecutar el main.py con visual studio code
+
+
 ## Descripcion del Proyecto
 
 Este proyecto fue desarrollado para el curso de Programacion de la UNAD
