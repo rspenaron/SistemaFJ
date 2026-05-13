@@ -117,3 +117,8 @@ La funcion demostracion_sistema ejecuta mas de 10 operaciones:
 - Creacion de reservas con errores (capacidad, horas, etc)
 - Gestion de estados de reservas (confirmar, cancelar, completar)
 - Muestra de logs al final
+
+
+# Raul Steven Peña Roncancio
+# PROGRAMACIÓN - (213023A_2201)
+# UNAD
